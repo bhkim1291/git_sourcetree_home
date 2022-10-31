@@ -1,0 +1,42 @@
+!DOCTYPE html
+html lang=ko
+head
+    meta charset=UTF-8
+    meta http-equiv=X-UA-Compatible content=IE=edge
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleDocumenttitle
+    link rel=stylesheet href=https fonts.googleapis.comcss2 family= Noto+Sans+KRwght@100;400;500 & display=swap rel=stylesheet
+    link rel=stylesheet type=textcss href=cssstyle.css
+
+    style
+head
+body
+    div class=wrap
+        div class=intro_bg
+            div class=header
+                div class=searcharea
+                    form
+                    input type=search placeholder=Search
+                    span검색span
+                    form
+                div
+                ul class=nav
+                    lia href=#카테고리ali
+                    lia href=#전단행사ali
+                    lia href=#신상품ali
+                    lia href=#할인상품ali
+                    lia href=#기획전ali
+                    lia href=#베스트ali
+                    lia href=#자주구매ali
+                    lia href=#택배배송ali
+                ul
+            div
+            div class=intro_text
+            h1필요했던 생활용품 50%할인h1
+            h2제철과일로 비타민 충천!h2
+            div
+        div
+    div
+
+body
+html
